@@ -1,10 +1,3 @@
-"""
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
-
-author: Adam Krejčí
-email: adam.krejci.1915@gmail.com
-"""
-
 import random
 import time
 
